@@ -2,8 +2,11 @@
 
 **NimeKu Site** adalah website nonton anime sub Indo yang dibuat menggunakan React.js dan fetch API untuk mengambil data anime. Website ini menyediakan berbagai fitur untuk memudahkan pengunjung dalam menonton dan menemukan anime yang mereka sukai.
 
+
 ### URL Website : 
 https://nime-ku.vercel.app/
+
+**Tampilan Khusus Web Khusus Mobile**
 
 ## Teknologi yang Digunakan
 
